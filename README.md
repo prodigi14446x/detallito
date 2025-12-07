@@ -1,1 +1,1 @@
-# detallito
+# detalle.html
